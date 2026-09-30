@@ -1,6 +1,6 @@
 # Clean Six-Gesture Hand Gesture Recognition
 
-A minimal webcam application for Syntecxhub AI Internship Task 3.
+A minimal webcam application.
 
 ## Supported gestures
 - Thumbs Up
